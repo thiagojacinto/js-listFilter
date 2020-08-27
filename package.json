@@ -1,0 +1,15 @@
+{
+  "name": "js-filter-method",
+  "version": "1.0.0",
+  "description": "Solucao ao desafio proposto para criar uma funcao que lista arquivos a partir do diretorio e opcao: por nome ou por extensao",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "Thiago Jacinto",
+  "license": "MIT",
+  "dependencies": {
+    "commander": "^6.0.0"
+  }
+}
