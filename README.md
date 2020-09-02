@@ -6,10 +6,11 @@
 Após instalar o NodeJS LTS 12+ e realizar o clone neste repositório, pelo terminal digite:
 
 ```
+npm install
 node index.js --help
 ```
 
-Que irá resultar na lista básica de comandos para utilizar a aplicação:
+Que, além de instalar as dependências necessárias, irá resultar na lista básica de comandos para utilizar a aplicação:
 
 ```
 Usage: index [options]
